@@ -1,3 +1,5 @@
+# Example Pitcher - "Joe Musgrove"
+
 # load required packages
 library(shiny)
 library(tidyverse)
