@@ -1,1 +1,0 @@
-# MLB-Pitch-Mix-2022
